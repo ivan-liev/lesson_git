@@ -82,6 +82,7 @@ q = ++c;
 console.log(h);
 console.log(c);
 console.log(a2);
+console.log(a1);
 
 // console.log('99' - 200 + 10);
 // console.log('y' + 1 + 0);
