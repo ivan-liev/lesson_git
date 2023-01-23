@@ -79,10 +79,12 @@ a2 = 2;
 b = ++a1; // a1=3, b=3
 c = a2++; // a2=3, c=2
 q = ++c;
+
 console.log(h);
 console.log(c);
 console.log(a2);
-console.log(a1);
+console.log('hi');
+
 
 // console.log('99' - 200 + 10);
 // console.log('y' + 1 + 0);
